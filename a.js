@@ -4,3 +4,5 @@ var b = 13;
 var c = 14;
 var haha = 23;
 console.log('a');
+var c='hello hello'
+
